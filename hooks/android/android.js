@@ -18,7 +18,7 @@ module.exports = {
   /**
    * gradle build paths
    */
-  gradleBuildPath: path.join("platforms", "android", "app", "build.gradle"),
+  gradleBuildPath: path.join("platforms", "android", "build.gradle"),
 
   /**
    * Android Plugin Config
